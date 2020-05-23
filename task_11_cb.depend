@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1590241900 source:c:\users\krash\downloads\task_11_cb\task_11_cb\main.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<algorithm>
+
